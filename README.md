@@ -7,25 +7,26 @@ A seguir, a lista dos artefatos e suas descrições.
 1. Dissertação Experiência Humana com Interfaces de LLM um Estudo Comparativo Baseado em Eixos de Avaliação.pdf
 Documento com a dissertação completa.
 
-2. Tabela-32-Artigos-Selecionados-MSL.xlsx
+2. MSL Completo.xlsx
+Planilha estruturada com todo o processo de tratamento dos itens exportados a partir do Parsifal. Na prática, esta planilha registrou o passo a passo do MSL.
+
+3. Tabela-32-Artigos-Selecionados-MSL.xlsx
 Planilha com os 32 artigos selecionados no Mapeamento Sistemâtico da Literatura que foi executado e ajudou a embasar conceitualmente a dissertação, além de indicar possibilidades que foram exploradas no experimento executado.
 
-3. Pesquisa GenIA - Formulário.pdf
+4. Pesquisa GenIA - Formulário.pdf
 Formulário utilizado na pesquisa cujos resultados orientaram a execução do experimento.
 
-4. Pesquisa GenIA (respostas).xlsx
+5. Pesquisa GenIA (respostas).xlsx
 Planilha com as respostas coletadas na pesquisa.
 
-5. Pesquisa GenIA análise dos resultados.pdf
+6. Pesquisa GenIA análise dos resultados.pdf
 Análise detalhada das respostas coletadas na pesquisa.
 
-6. dataset.xlsx
+7. dataset.xlsx
 Planilha completa e detalhada com todos os resultados coletados durante o experimento qualitativo executado para a dissertação.
 
-7. datasetreduzido.xlsx
+8. datasetreduzido.xlsx
 Planilha ajustada para ser analisada e explorada com Python.
 
-8. Analise_Dataset_Experimento.ipynb
+9. Analise_Dataset_Experimento.ipynb
 Código Python criado para analisar os resultados do experimento.
-
-
